@@ -2,15 +2,15 @@
 @font-face {
     font-family: 'Ubuntu';
     font-display: swap;
-    src: url("../fonts/Ubuntu-Regular.eot");
-    src: local("☺"), url("../fonts/Ubuntu-Regular.woff") format("woff"), url("../fonts/Ubuntu-Regular.ttf") format("truetype"), url("../fonts/Ubuntu-Regular.svg") format("svg");
+    src: url("fonts/Ubuntu-Regular.eot");
+    src: local("☺"), url("fonts/Ubuntu-Regular.woff") format("woff"), url("fonts/Ubuntu-Regular.ttf") format("truetype"), url("fonts/Ubuntu-Regular.svg") format("svg");
     font-weight: 400;
 	font-style: normal;
 }
 @font-face {
     font-family: 'Ubuntu';
     src: url("../fonts/Ubuntu-Medium.eot");
-    src: local("☺"), url("../fonts/Ubuntu-Medium.woff") format("woff"), url("../fonts/Ubuntu-Medium.ttf") format("truetype"), url("../fonts/Ubuntu-Medium.svg") format("svg");
+    src: local("☺"), url("fonts/Ubuntu-Medium.woff") format("woff"), url("fonts/Ubuntu-Medium.ttf") format("truetype"), url("fonts/Ubuntu-Medium.svg") format("svg");
     font-weight: 500;
     font-style: normal; }
 *{
